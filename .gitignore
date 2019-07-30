@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 /node_modules
 /public/hot
 /public/storage
@@ -16,6 +17,8 @@ yarn-error.log
 =======
 =======
 >>>>>>> 3997d3385061c7b9ad2c919c2918590cc5509df5
+=======
+>>>>>>> c401f14f330b9569f04807f8e2453a4661fa33d7
 vendor/
 node_modules/
 npm-debug.log
@@ -36,7 +39,11 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 <<<<<<< HEAD
+<<<<<<< HEAD
 .rocketeer/
 =======
 .rocketeer/
 >>>>>>> 3997d3385061c7b9ad2c919c2918590cc5509df5
+=======
+.rocketeer/
+>>>>>>> c401f14f330b9569f04807f8e2453a4661fa33d7
