@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: hscnwoccu
+  api_key: '254846495282978'
+  api_secret: 9WLUF3W4A2own2CxPPzyUfSwClU
+  enhance_image_tag: true
+  static_file_support: false
+production:
+  cloud_name: hscnwoccu
+  api_key: '254846495282978'
+  api_secret: 9WLUF3W4A2own2CxPPzyUfSwClU
+  enhance_image_tag: true
+  static_file_support: true
+test:
+  cloud_name: hscnwoccu
+  api_key: '254846495282978'
+  api_secret: 9WLUF3W4A2own2CxPPzyUfSwClU
+  enhance_image_tag: true
+  static_file_support: false
