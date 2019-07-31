@@ -89,7 +89,7 @@
     <ol>
         @foreach ($all_tags as $tag)
         @if(!$tag->customers()->get()->isEmpty())
-        <li id="tete_list"><a href="{{ route('profile',[$name,'&tags='.hash('md5',$tag->id)]) }}">[{{ $tag->tag_name }}]</a></li>
+        <li id="tete_list"><a href="{{ route('c_profile',[$name,'&tags='.hash('md5',$tag->id)]) }}">[{{ $tag->tag_name }}]</a></li>
         @endif
         @endforeach
     </ol>
